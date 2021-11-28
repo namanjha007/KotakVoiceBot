@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kotak VoiceBot</string>
+    <string name="email_hint">Enter Email/Name</string>
+    <string name="password_string">Enter Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Log In</string>
+    <string name="signup">Sign up with</string>
+    <string name="terms">By signing up you agree with the <u>terms and conditions.</u></string>
+</resources>

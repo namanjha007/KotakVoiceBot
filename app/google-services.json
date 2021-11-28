@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48714798979",
+    "project_id": "kotak-voicebot",
+    "storage_bucket": "kotak-voicebot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48714798979:android:9007859e8d2e4aa5c488b6",
+        "android_client_info": {
+          "package_name": "com.example.kotakvoicebot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48714798979-gnl0tq0cos33su6lvd1av90kj1hhmlr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBphpI5UrRm9Ou9nmydo3sIaI3gSyedRp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48714798979-gnl0tq0cos33su6lvd1av90kj1hhmlr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
