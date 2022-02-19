@@ -17,12 +17,6 @@
         android:backgroundTint="@color/gray"
         app:cardElevation="10dp">
 
-        <ImageView
-            android:layout_width="match_parent"
-            android:layout_height="60dp"
-            android:layout_gravity="center"
-            android:src="@drawable/kotak_logo" />
-
     </androidx.cardview.widget.CardView>
 
     <ScrollView

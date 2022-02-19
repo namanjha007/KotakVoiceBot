@@ -35,13 +35,6 @@
         android:src="@drawable/mypic"
         android:layout_marginRight="8dp" />
 
-    <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="50dp"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="10dp"
-        android:src="@drawable/kotak_logo" />
 
     <LinearLayout
         android:id="@+id/ll1"
@@ -63,7 +56,7 @@
                 android:id="@+id/tv1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Kotak Mahindra Bank"
+                android:text="NJDUNK Bank"
                 android:textSize="23dp"
                 android:textColor="@color/black"/>
 
@@ -83,12 +76,6 @@
 
         </LinearLayout>
 
-        <de.hdodenhof.circleimageview.CircleImageView
-            android:layout_width="60dp"
-            android:layout_height="80dp"
-            android:src="@drawable/circle_logo"
-            android:layout_weight="0.4"
-            android:layout_gravity="center"/>
 
 
     </LinearLayout>

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Kotak VoiceBot</string>
+    <string name="app_name">NJ VoiceBot</string>
     <string name="email_hint">Enter Email/Name</string>
     <string name="password_string">Enter Password</string>
     <string name="forgot_password">Forgot Password?</string>
